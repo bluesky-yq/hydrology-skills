@@ -1,0 +1,4 @@
+interface:
+  display_name: "洪涝识别-WEGIS"
+  short_description: "视频模型：识别视频中的洪涝、积水和淹没区域"
+  default_prompt: "使用 $洪涝识别-WEGIS 识别这段视频中的洪涝或积水区域。"
